@@ -1,0 +1,17 @@
+
+body {
+    background-color: #323030;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 55px;
+
+}
+
+.btn {
+    padding: 10px;
+    background-color: #58b758;
+}
